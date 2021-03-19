@@ -1,7 +1,13 @@
 .App {
   text-align: center;
+  margin-top: 50px;
 }
-
+.DivBlocks{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  margin: 0 auto;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
